@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
 gem 'celluloid'
-gem 'mechanize'
+gem 'json'
 gem 'launchpad'
+gem 'mechanize'
+gem 'nokogiri'
